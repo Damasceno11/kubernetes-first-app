@@ -320,11 +320,9 @@ kubectl logs <nome-do-pod>
 
 **Pedro Paulo Damasceno Muniz**
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas – Uniasselvi – Blumenau**
-💻 Participante do **treinamento intensivo +Devs2Blu – Blumenau**
+
 📎 GitHub: [Damasceno11](https://github.com/Damasceno11)
+
 🔗 LinkedIn: [Pedro Damasceno](https://www.linkedin.com/in/pedro-damasceno-23b330150/)
 
 ---
-
-Se quiser, posso montar também uma **versão “README acadêmico” em PDF** formatada para entrega oficial (com capa, numeração e rodapé).
-Quer que eu gere essa versão a partir deste conteúdo?
