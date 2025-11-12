@@ -228,6 +228,7 @@ kubectl get pods
 ```
 
 ✅ **Os 4 Pods rodando:**
+
 ![Os 4 Pods rodando.](image-8.png)
 
 ### 🧠 Explicação
