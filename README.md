@@ -31,9 +31,11 @@ Ativar e verificar se o Kubernetes está funcionando corretamente no Docker Desk
    ```
 
 ✅ **Resultado do `kubectl get nodes` com o status “Running”:**
+
 ![Resultado do kubectl get nodes com o status “Running”](image-2.png)
 
 ✅ **Resultado via terminal com status "READY":**
+
 ![Resultado via terminal](image.png)
 
 ### 🧠 Explicação
@@ -75,9 +77,11 @@ kubectl describe pod web-pod
 ```
 
 ✅ **Resultado do `kubectl get pods` (mostrando STATUS “Running”):**
+
 ![Resultado do kubectl get pods (mostrando STATUS “Running”).](image2.png)
 
 ✅ **Docker Desktop (mostrando IP e container criado):**
+
 ![Docker desktop (mostrando IP e container criado).](image-1.png)
 
 ### 🧠 Explicação
@@ -126,9 +130,11 @@ kubectl get pods
 ```
 
 ✅ **Kubectl get deployments (com 2/2 disponíveis):**
+
 ![Kubectl get deployments (com 2/2 disponíveis).](image-3.png)
 
 ✅ **Kubectl get pods (mostrando os dois Pods criados pelo deployment):**
+
 ![Kubectl get pods (mostrando os dois Pods criados pelo deployment).](image-4.png)
 
 ### 🧠 Explicação
@@ -169,12 +175,14 @@ kubectl get services
 ```
 
 ✅ **Kubectl get services (com o IP e a porta 30080):**
+
 ![Kubectl get services (com o IP e a porta 30080).](image-5.png)
 
 Acesse no navegador:
 👉 [http://localhost:30080](http://localhost:30080)
 
 ✅ **Página padrão do NGINX carregando:**
+
 ![Página padrão do NGINX carregando.](image-6.png)
 
 ### 🧠 Explicação
@@ -211,6 +219,7 @@ Observar o comportamento do Kubernetes quando há **falhas** e quando **escalamo
    ```
 
 ✅ **Substituição automática do Pod (um novo sendo criado):**
+
 ![Substituição automática do Pod (um novo sendo criado).](image-7.png)
 
 ### 🧠 Explicação
